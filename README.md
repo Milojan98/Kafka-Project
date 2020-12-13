@@ -14,7 +14,7 @@ La documentation ce trouve [ici](https://github.com/ccxt/ccxt).
 Cette librairie nous permet de se connecter à notre serveur kafka et de pouvoir interagir avec celle-ci.
 
 ### Apercu 
-![alt text] (Kafka-Project/Images/localhost)
+![alt text] (Kafka-Project/Images/localhost.png)
 [Le code](Kafka-Project/kafka-python/Producer.py)
 
 ## Kafka-Consumer
