@@ -15,8 +15,14 @@ Cette librairie nous permet de se connecter à notre serveur kafka et de pouvoir
 
 ### Apercu 
 Localhost:3030 </br>
-<img src="https://github.com/Milojan98/Kafka-Project/blob/main/Images/localhost.png" width="600" height="300"> </br>
+<img src="https://github.com/Milojan98/Kafka-Project/blob/main/Images/localhost.png"> </br>
 
 Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-kafka/ProducerKafka.py) de la partie producer.
 
 ## Kafka-Consumer
+
+### Apercu 
+ Graphique afficher par le consumer: </br>
+<img src="https://github.com/Milojan98/Kafka-Project/blob/main/Images/Figure_1.png"> </br>
+
+
