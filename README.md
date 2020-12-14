@@ -10,7 +10,7 @@ Les applications qui va nous permettre d'éditer les données dans notre serveur
 Cette librairie va nous permettre d'utiliser l'API Binance et de requeter nos valeurs voulues.
 La documentation ce trouve [ici](https://github.com/ccxt/ccxt).
 
-#### Kafka-python
+#### Kafka-python : KafkaProducer
 Cette librairie nous permet de se connecter à notre serveur kafka et de pouvoir interagir avec celle-ci.
 
 ### Apercu 
@@ -21,8 +21,18 @@ Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-k
 
 ## :gear: Kafka-Consumer
 
+### :ledger: Librairies utilisées
+
+#### Kafka-python : KafkaConsumer
+Cette librairie nous permet de se connecter à notre serveur kafka et de pouvoir interagir avec celle-ci.
+
+#### Matplotlib 
+Cette librairie nous permet ici d'afficher un graphique en live, qui s'actualisera au fur et a mesure des données reçue. 
+
 ### :chart_with_upwards_trend: Apercu 
  Graphique afficher par le consumer: </br>
 <img src="https://github.com/Milojan98/Kafka-Project/blob/main/Images/Figure_1.png"> </br>
+
+Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-kafka/ProducerKafka.py) de la partie consumer.
 
 
