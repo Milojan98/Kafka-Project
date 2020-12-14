@@ -7,7 +7,7 @@ Les applications qui vont nous permettre d'éditer les données dans notre serve
 ### :ledger: Librairies utilisées
 
 #### CCTX
-Cette librairie va nous permettra d'utiliser l'API Binance et de receuillir les valeurs voulues.
+Cette librairie nous permettra d'utiliser l'API Binance et de receuillir les valeurs voulues.
 La documentation ce trouve [ici](https://github.com/ccxt/ccxt).
 
 #### Kafka-python : KafkaProducer
