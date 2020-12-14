@@ -20,6 +20,7 @@ Localhost:3030 </br>
 Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-kafka/ProducerKafka.py) de la partie producer.
 
 ## :gear: Kafka-Consumer
+Dans cette partie on va récuperer les messages stockés sur notre serveur kafka et afficher un graphique dynamique qui représentera le cours actuel du BTC/USDT. 
 
 ### :ledger: Librairies utilisées
 
@@ -33,6 +34,6 @@ Cette librairie nous permet ici d'afficher un graphique en live, qui s'actualise
  Graphique afficher par le consumer: </br>
 <img src="https://github.com/Milojan98/Kafka-Project/blob/main/Images/Figure_1.png"> </br>
 
-Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-kafka/ProducerKafka.py) de la partie consumer.
+Accéder au [code](https://github.com/Milojan98/Kafka-Project/blob/main/python-kafka/ConsumerKafka.py) de la partie consumer.
 
 
