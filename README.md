@@ -2,11 +2,11 @@
 
 ## :wrench: Kafka-Producer
 L'objectif de cette partie est qu'à chaque minute une récuperation du prix BTC/USDT soit effectué sur la plateforme d'échange Binance et que par la suite ce dernier, soit envoyé sur notre serveur kafka.
-Les applications qui vont nous permettre d'éditer les données dans notre serveur Kafka sont [kafka-python](https://pypi.org/project/kafka-python/) et [cctx](https://pypi.org/project/cctx/).
+Les applications qui vont nous permettre d'éditer les données dans notre serveur Kafka sont [kafka-python](https://pypi.org/project/kafka-python/) et [ccxt](https://pypi.org/project/cctx/).
 
 ### :ledger: Librairies utilisées
 
-#### CCTX
+#### CCXT
 Cette librairie nous permettra d'utiliser l'API Binance et de receuillir les valeurs voulues.
 La documentation ce trouve [ici](https://github.com/ccxt/ccxt).
 
