@@ -1,4 +1,7 @@
-# Kafka-Project
+                                                                                                         Milojan ANANDARASA
+                                                                                                         Guillaume BICHAT
+                                                                                                         Alexandre BONAN
+# Kafka-Project       
 
 ## :wrench: Kafka-Producer
 L'objectif de cette partie est qu'à chaque minute une récuperation du prix BTC/USDT soit effectué sur la plateforme d'échange Binance et que par la suite ce dernier, soit envoyé sur notre serveur kafka.
